@@ -1,3 +1,5 @@
+This R&D framework is now complete. Please see https://github.com/ryanbastic/go-mezzanine for v2.
+
 This is an open-source, MIT-licensed implementation of Uber's Schemaless
 (immutable BigTable-style sharded MySQL datastore)
 
